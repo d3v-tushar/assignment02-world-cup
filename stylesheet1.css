@@ -60,6 +60,11 @@ main{
     margin-top: 40px;
 }
 
+.fa-solid.fa-angle-right {
+    font-size: 20px;
+    margin-left: 25px;
+}
+
 /* Mid Section Start */
 .mid-section{
     margin-top: 140px;
